@@ -1,5 +1,7 @@
 Getting and Cleaning Data Course Project Read Me
 
+This file describes how run_analysis.R script works.
+
 Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip.
 
 Copy txt files in "test" and "train" folder to the same folder where the "run_analysis.R" script is.
